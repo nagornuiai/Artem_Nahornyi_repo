@@ -1,0 +1,7 @@
+Age	 
+Years at Employer	
+Years at Address	
+Income	
+Credit Card Debt 	
+Automobile Debt	
+Outcomes: Default = 1
